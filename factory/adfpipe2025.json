@@ -1,0 +1,9 @@
+{
+	"name": "adfpipe2025",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "152a75c6-fa20-47d4-a0be-433819a32bad",
+		"tenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"
+	}
+}
