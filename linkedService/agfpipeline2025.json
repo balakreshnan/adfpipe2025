@@ -1,0 +1,10 @@
+{
+	"name": "agfpipeline2025",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://adftest2025store.dfs.core.windows.net/"
+		}
+	}
+}
